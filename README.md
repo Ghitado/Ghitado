@@ -3,7 +3,7 @@
 
 - 😄 I’m 18 years old, Web Developer.
 - 🔭 I’m currently working and studying my development skills.
-- 🌱 I’m currently learning C#, .Net and TypeScript.
+- 🌱 I’m currently learning C#, .NET and TypeScript.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
