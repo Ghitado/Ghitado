@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Thiago Mota</h1>
-<h3 align="center">Currently studying and improving skills in the development area.</h3>
+### Hi 👋, I'm Thiago Mota
+#### Currently studying and improving skills in the development area. <br>
+
+- 😄 I’m 18 years old, Web Developer.
+- 🔭 I’m currently working and studying my development skills.
+- 🌱 I’m currently learning C#, .Net and TypeScript.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
