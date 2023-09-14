@@ -1,12 +1,16 @@
 ## Olá! Eu sou o Thiago Mota 🖐️
  Sou apaixonado por tecnologia e estou em busca de mais aprendizados!
 <br/>
-Acompanhe minha jornada atraves do meu: <br><br>
+
+## Aqui estão meus contatos 
 <a href="https://www.linkedin.com/in/thiagodemelomota/">
     <img src="https://img.shields.io/badge/-Linkedin-2D9964?style=for-the-badge&logo=Linkedin&logoColor=white" title="LinkedIn Profile" alt="LinkedIn">
 </a>
 <a href="https://thiagomota.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-2D9964?style=for-the-badge&logo=next.js&logoColor=white" title="My Personal Website (Portfolio)" alt="Personal Website (Portfolio)">
+</a>
+<a href="mailto:thiaguinho.020405@gmail.com">
+    <img src="https://img.shields.io/badge/-brendongomes40@gmail.com-2D9964?style=for-the-badge&logo=gmail&logoColor=white" title="my email address" alt="my email address">
 </a>
 
 ## Tecnologias que conheço 💻
