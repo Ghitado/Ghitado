@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Thiago Mota 🖐️
- Sou apaixonado por tecnologia e estou em busca de mais aprendizados!
+ Em busca de uma oportunidade para iniciar minha carreira na área com um grande
+interesse em aprender e aplicar novas tecnologias.
 <br/>
 
 ## Aqui estão meus contatos 
