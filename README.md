@@ -3,7 +3,9 @@
 interesse em aprender e aplicar novas tecnologias.
 <br/>
 
-## Aqui estão meus contatos 
+![Ghitado GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghitado&show_icons=true&theme=dracula&count_private=true)
+
+## Aqui estão meus contatos 📱
 <a href="https://www.linkedin.com/in/thiagodemelomota/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn Profile" alt="LinkedIn">
 </a>
@@ -14,7 +16,7 @@ interesse em aprender e aplicar novas tecnologias.
     <img src="https://img.shields.io/badge/thiaguinho.020405@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="my email address" alt="my email address">
 </a>
 
-## Tecnologias que conheço 💻
+## Tecnologias que uso 💻
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -28,3 +30,9 @@ interesse em aprender e aplicar novas tecnologias.
 ![Git](https://img.shields.io/badge/Git-131313.svg?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <!--![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)-->
+
+## Próximas tecnologias a estudar 📚
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
