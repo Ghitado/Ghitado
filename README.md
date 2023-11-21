@@ -12,8 +12,8 @@ interesse em aprender e aplicar novas tecnologias.
 <a href="https://thiagomota.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge" title="My Personal Website (Portfolio)" alt="Personal Website (Portfolio)">
 </a>
-<a href="mailto:thiaguinho.020405@gmail.com">
-    <img src="https://img.shields.io/badge/thiaguinho.020405@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="my email address" alt="my email address">
+<a href="mailto:thiagodemelomota@gmail.com">
+    <img src="https://img.shields.io/badge/thiagodemelomota@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="my email address" alt="my email address">
 </a>
 
 ## Tecnologias que uso 💻
