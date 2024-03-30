@@ -64,6 +64,8 @@ interesse em aprender e aplicar novas tecnologias.
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="50" alt="swagger logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo"  />
