@@ -27,6 +27,7 @@ interesse em aprender e aplicar novas tecnologias.
 
 ## Tecnologias que já tive contato 💻
 
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="15" />
@@ -59,6 +60,8 @@ interesse em aprender e aplicar novas tecnologias.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="50" alt="microsoftsqlserver logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img width="15" />
