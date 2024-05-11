@@ -2,9 +2,9 @@
  Em busca de uma oportunidade para iniciar minha carreira na área com um grande
 interesse em aprender e aplicar novas tecnologias.
 
-- ⚒ Desenvolvedor Back-end (C#, .Net Core, SQLServer, MySQL, Git);
+- ⚒ Desenvolvedor Back-end (C#, .Net Core, SQLServer, Git);
 
-- 🎨 Possuo conhecimento básico em Html/CSS, JavaScript, TypeScript, Angular, Node.js e Scrum;
+- 🎨 Possuo conhecimento básico em Html/CSS, JavaScript, TypeScript, Angular, Node.js, MySQL e Scrum;
 
 - 👨‍🎓 Formado em Desenvolvimento de Sistemas (técnico);
 
