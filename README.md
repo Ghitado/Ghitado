@@ -2,9 +2,9 @@
  Em busca de uma oportunidade para iniciar minha carreira na área com um grande
 interesse em aprender e aplicar novas tecnologias.
 
-- ⚒ Desenvolvedor Back-end (C#, .Net Core, SQLServer, Git);
+- ⚒ Desenvolvedor Back-end (C#, .Net Core, SQLServer);
 
-- 🎨 Possuo conhecimento básico em Html/CSS, JavaScript, TypeScript, Angular, Node.js e Scrum;
+- 🎨 Possuo conhecimento básico em HTML/CSS, JavaScript, TypeScript, Angular, Node.js, Git e Scrum;
 
 - 👨‍🎓 Formado em Desenvolvimento de Sistemas (técnico);
 
@@ -28,7 +28,8 @@ interesse em aprender e aplicar novas tecnologias.
 ## Tecnologias que já tive contato 💻
 
 
-<div align="center">
+<div align
+="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
