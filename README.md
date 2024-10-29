@@ -2,9 +2,9 @@
  Em busca de uma oportunidade para iniciar minha carreira na área com um grande
 interesse em aprender e aplicar novas tecnologias.
 
-- ⚒ Desenvolvedor Web;
+- ⚒ Desenvolvedor;
 
-- 🎨 Possuo conhecimento em HTML/CSS, JavaScript, TypeScript, React, Node.js, C#, .Net, SQLServer, Git e Scrum;
+- 🎨 Possuo conhecimento em C#, .Net, HTML/CSS, JavaScript, TypeScript, React, Node.js, SQL, Git e Scrum;
 
 - 👨‍🎓 Formado em Desenvolvimento de Sistemas (técnico);
 
@@ -42,6 +42,8 @@ interesse em aprender e aplicar novas tecnologias.
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
@@ -51,6 +53,8 @@ interesse em aprender e aplicar novas tecnologias.
   <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="45" alt="mssql logo"  />
   <img width="15" />
