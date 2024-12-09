@@ -2,7 +2,7 @@
  Em busca de uma oportunidade para iniciar minha carreira na área com um grande
 interesse em aprender e aplicar novas tecnologias.
 
-- ⚒ Desenvolvedor Web;
+- ⚒ Desenvolvedor de Software;
 
 - 🎨 Possuo conhecimento em C#, .Net, HTML/CSS, JavaScript, TypeScript, React, Node.js, SQL, Git e Scrum;
 
