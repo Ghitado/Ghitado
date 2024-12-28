@@ -4,7 +4,7 @@ interesse em aprender e aplicar novas tecnologias.
 
 - ⚒ Desenvolvedor de Software;
 
-- 🎨 Possuo conhecimento em C#, .Net, HTML/CSS, JavaScript, TypeScript, React, Node.js, SQL, Git e Scrum;
+- 🎨 Possuo conhecimento em C#, .Net, HTML/CSS, JavaScript, TypeScript, React, Next.js, Node.js, SQL, Git e Scrum;
 
 - 👨‍🎓 Formado em Desenvolvimento de Sistemas (técnico);
 
