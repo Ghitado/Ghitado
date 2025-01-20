@@ -8,7 +8,7 @@ interesse em aprender e aplicar novas tecnologias.
 
 - 👨‍🎓 Formado em Desenvolvimento de Sistemas (técnico);
 
-- 📚 Cursando Desenvolvimento de Software Multiplataforma (Fatec);
+- 📚 Cursando Desenvolvimento de Software Multiplataforma (técnologo);
 
 <br>
 
