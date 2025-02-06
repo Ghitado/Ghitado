@@ -4,7 +4,7 @@ interesse em aprender e aplicar novas tecnologias.
 
 - ⚒ Desenvolvedor de Software;
 
-- 🎨 Possuo conhecimento em C#, .Net, HTML/CSS, JavaScript, TypeScript, React, Angular, Node.js, SQL, Git e Scrum;
+- 🎨 Possuo conhecimento em C#, ASP.NET Core, HTML/CSS, JavaScript, TypeScript, Angular, SQL, Git e Scrum;
 
 - 👨‍🎓 Formado em Desenvolvimento de Sistemas (técnico);
 
@@ -27,11 +27,12 @@ interesse em aprender e aplicar novas tecnologias.
     <img src="https://img.shields.io/badge/thiagodemelomota@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="my email address" alt="my email address">
 </a>
 
-## Tecnologias que já tive contato 💻
-
-
-
+## Tecnologias que utilizo 💻
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
@@ -40,23 +41,7 @@ interesse em aprender e aplicar novas tecnologias.
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="50" alt="angular logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="15" />
@@ -64,9 +49,7 @@ interesse em aprender e aplicar novas tecnologias.
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="50" alt="swagger logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="azure logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo"  />
   <img width="15" />
