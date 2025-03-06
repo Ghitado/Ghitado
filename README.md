@@ -26,23 +26,25 @@ Se você está interessado em colaborar em projetos, discutir tecnologias ou sim
 
 Fique à vontade para explorar os meus projetos neste repositório e não hesite em me contatar se tiver alguma pergunta ou sugestão. Obrigado por visitar! 😊
 
-<!--
+<div align="center">
+<a href="#">
+<picture>
+  <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=2D9964&title_color=2D9964&theme=transparent&text_color=f0f0f0&bg_color=00000010&border_color=30363d&username=Ghitado&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" />
+  <source media="(prefers-color-scheme: light)" height=200 srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=216e48&title_color=216e48&theme=transparent&text_color=161716&username=Ghitado&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" />
+  <img alt="Ghitado's profile statics on Github" height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=216e48&title_color=216e48&theme=transparent&text_color=161716&username=Brendon3578&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" />
+</picture>
+</a>
+
+
+<a href="#">
+<picture>
+  <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ghitado&layout=compact&text_color=f0f0f0&title_color=2D9964&bg_color=00000010&border_color=30363d&langs_count=8&theme=transparent&hide=css,html,scss&locale=pt-BR" />
+  <source media="(prefers-color-scheme: light)" height=200 srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ghitado&layout=compact&text_color=050505&title_color=216e48&langs_count=8&theme=transparent&hide=css,html,scss&locale=pt-BR" />
+  <img alt="Ghitado's top used programming languages on Github" height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e48&langs_count=8&theme=transparent&hide=css,html,scss&locale=pt-BR" />
+</picture>
+</a>
+</div>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghitado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
-  
-## Aqui estão meus contatos 📱
-<a href="https://www.linkedin.com/in/thiagodemelomota/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn Profile" alt="LinkedIn">
-</a>
-
-<a href="https://thiagomota.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge" title="My Personal Website (Portfolio)" alt="Personal Website (Portfolio)">
-</a>
-
-<a href="mailto:thiagodemelomota@gmail.com">
-    <img src="https://img.shields.io/badge/thiagodemelomota@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="my email address" alt="my email address">
-</a>
--->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
   <img width="15" />
