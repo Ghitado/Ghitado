@@ -10,12 +10,15 @@ Olá! 👋 Meu nome é Thiago Mota, sou um Desenvolvedor .NET apaixonado por cri
 
 ## Habilidades
 
-- 💻 Linguagens de Programação: C#, JavaScript e Typescript.
-- 💾 Bancos de Dados: MySQL, SQL Server, MongoDB.
-- 📄 Linguagens de Marcação: HTML, CSS.
-- 🛠️ Tecnologias e Frameworks: .NET, .NET Core, ASP.NET Core, Entity Framework, Docker, Azure.
-- 🧰 Ferramentas de Desenvolvimento: Visual Studio, Visual Studio Code, MySQL Workbench, SQL Server Management Studio, Git, Postman.
-- 📚 Metodologias, Práticas e Arquiteturas: Clean Code, SOLID, Design Patterns, Domain Driven Design (DDD), Clean Architecture.
+- 💻 Back-end: C#, ASP.NET Core, Entity Framework Core, JWT, FluentValidation, Mapster
+- 🎨 Front-end: Angular, TypeScript, HTML, CSS
+- 💾 Banco de Dados: Microsoft SQL Server, MySQL, NoSQL (MongoDB)
+- 🧪 Testes: xUnit, Moq, Testes Unitários e de Integração
+- 🧠 Arquitetura e Design: SOLID, Clean Code, Clean Architecture, Design Patterns
+- 📬 Mensageria: RabbitMQ
+- 🐳 Infraestrutura e DevOps: Docker, Docker-Compose, Azure
+- 🔁 CI/CD e Versionamento: Git, GitHub, GitHub Actions, Azure DevOps
+- 📋 Metodologias Ágeis: Scrum, Kanban
 
 ## Contato
 
