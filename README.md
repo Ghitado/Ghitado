@@ -29,23 +29,16 @@ Se você está interessado em colaborar em projetos, discutir tecnologias ou sim
 
 Fique à vontade para explorar os meus projetos neste repositório e não hesite em me contatar se tiver alguma pergunta ou sugestão. Obrigado por visitar! 😊
 
+###
+
 <div align="center">
-<a href="#">
-<picture>
-  <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=2D9964&title_color=2D9964&theme=transparent&text_color=f0f0f0&bg_color=00000010&border_color=30363d&username=Ghitado&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" />
-  <source media="(prefers-color-scheme: light)" height=200 srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=216e48&title_color=216e48&theme=transparent&text_color=161716&username=Ghitado&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" />
-  <img alt="Ghitado's profile statics on Github" height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=216e48&title_color=216e48&theme=transparent&text_color=161716&username=Brendon3578&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" />
-</picture>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghitado&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="230" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ghitado&locale=pt-br&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Ghitado&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
+###
 
-<a href="#">
-<picture>
-  <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ghitado&layout=compact&text_color=f0f0f0&title_color=2D9964&bg_color=00000010&border_color=30363d&langs_count=8&theme=transparent&hide=css,html,scss&locale=pt-BR" />
-  <source media="(prefers-color-scheme: light)" height=200 srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ghitado&layout=compact&text_color=050505&title_color=216e48&langs_count=8&theme=transparent&hide=css,html,scss&locale=pt-BR" />
-  <img alt="Ghitado's top used programming languages on Github" height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e48&langs_count=8&theme=transparent&hide=css,html,scss&locale=pt-BR" />
-</picture>
-</a>
 </div>
 <br>
 <div align="center">
