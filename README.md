@@ -15,7 +15,6 @@ Olá! 👋 Meu nome é Thiago Mota, sou um Desenvolvedor .NET apaixonado por cri
 - 💾 Banco de Dados: Microsoft SQL Server, MySQL, NoSQL (MongoDB)
 - 🧪 Testes: xUnit, Moq, Testes Unitários e de Integração
 - 🧠 Arquitetura e Design: SOLID, Clean Code, Clean Architecture, Design Patterns
-- 📬 Mensageria: RabbitMQ
 - 🐳 Infraestrutura e DevOps: Docker, Docker-Compose, Azure
 - 🔁 CI/CD e Versionamento: Git, GitHub, GitHub Actions, Azure DevOps
 - 📋 Metodologias Ágeis: Scrum, Kanban
@@ -26,6 +25,7 @@ Se você está interessado em colaborar em projetos, discutir tecnologias ou sim
 
 - 📧 Email: thiagodemelomota@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/thiagodemelomota/
+- 🎥 YouTube: https://www.youtube.com/@thiagodemelomota
 
 Fique à vontade para explorar os meus projetos neste repositório e não hesite em me contatar se tiver alguma pergunta ou sugestão. Obrigado por visitar! 😊
 
