@@ -49,7 +49,6 @@ Se você está interessado em colaborar em projetos, discutir tecnologias ou sim
 
 - 📧 Email: thiagodemelomota@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/thiagodemelomota/
-- 🎥 YouTube: https://www.youtube.com/@thiagodemelomota
 
 Fique à vontade para explorar os meus projetos neste repositório e não hesite em me contatar se tiver alguma pergunta ou sugestão. Obrigado por visitar! 😊
 
