@@ -55,8 +55,21 @@ Fique à vontade para explorar os meus projetos neste repositório e não hesite
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghitado&locale=pt-br&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="230" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ghitado&locale=pt-br&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
+<a href="#">
+<picture>
+  <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghitado&layout=compact&text_color=f0f0f0&title_color=2d995c&bg_color=00000010&border_color=30363d&langs_count=8&theme=transparent&hide=css%2Chtml%2Cscss%2Cjupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
+  <source media="(prefers-color-scheme: light)" height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghitado&layout=compact&text_color=050505&title_color=216e3f&langs_count=8&theme=transparent&hide=css%2Chtml%2Cscss%2Cjupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
+  <img alt="Ghitado's top used programming languages on Github" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghitado&layout=compact&text_color=050505&title_color=216e3f&langs_count=8&theme=transparent&hide=css%2Chtml%2Cscss%2Cjupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
+</picture>
+</a>
+
+<a href="#">
+<picture>
+  <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats.vercel.app/api?icon_color=2d995c&title_color=2d995c&theme=transparent&text_color=f0f0f0&bg_color=00000010&border_color=30363d&username=Ghitado&show_icons=true&rank_icon=github&count_private=true&locale=pt-BR" />
+  <source media="(prefers-color-scheme: light)" height=200 srcset="https://github-readme-stats.vercel.app/api?icon_color=216e3f&title_color=216e3f&theme=transparent&text_color=161716&username=Ghitado&show_icons=true&rank_icon=github&count_private=true&locale=pt-BR" />
+  <img alt="Ghitado's profile statistics on Github" height=200 src="https://github-readme-stats.vercel.app/api?icon_color=216e3f&title_color=216e3f&theme=transparent&text_color=161716&username=Ghitado&show_icons=true&rank_icon=github&count_private=true&locale=pt-BR" />
+</picture>
+</a>
 </div>
 
 ###
